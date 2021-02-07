@@ -1,0 +1,17 @@
+__pycache__
+events.*
+*.csv
+pipedream/runtime/image_classification/test_logs/mp_2_0.02_spectrain/events.out.tfevents.1602050500.x6zf4octr1602049298804-trrxj
+old_logs/
+*.out
+*.tar
+data
+test.*
+logs
+*.sif
+output*
+log*
+# pipedream/runtime/image_classification/models/__pycache__/__init__.cpython-36.pyc
+.vscode
+.data
+.vector_cache
